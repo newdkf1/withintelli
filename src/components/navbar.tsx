@@ -326,7 +326,7 @@ export default function Navbar() {
                                             <div className={`flex-col  ${openSans.className} max-w-[320px]  text-[16px] font-[300] text-gray-300 `}>
                                                 <div className="flex">
                                                     <p className="text-[18px] -mt-[1px]"> 📩 </p>
-                                                    <p className={`ml-[10px] ${geistMono.className} text-[20px] text-white`}> support@intelli4.co </p>
+                                                    <p className={`ml-[10px] ${geistMono.className} text-[20px] text-white`}> support@withintelli.com </p>
                                                 </div>
 
                                                 <div className="flex mt-[20px]">
@@ -994,7 +994,7 @@ export default function Navbar() {
                                     <div className="flex-col mt-[30px]">
                                         <div className="flex">
                                             <p className="text-[15px] -mt-[1px]"> 📩 </p>
-                                            <p className={`ml-[10px] ${geistMono.className} text-[18px] `}> support@intelli4.co </p>
+                                            <p className={`ml-[10px] ${geistMono.className} text-[18px] `}> support@withintelli.com </p>
                                         </div>
 
                                         <div className="flex mt-[20px]">

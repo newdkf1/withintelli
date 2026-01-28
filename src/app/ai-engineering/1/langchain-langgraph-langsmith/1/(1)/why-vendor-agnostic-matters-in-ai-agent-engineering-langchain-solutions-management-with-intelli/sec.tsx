@@ -78,7 +78,7 @@ export default function Section() {
                             </h2>
                         </div>
 
-                        <div className='flex-col mt-[20px]   bg-green-0' text-black>
+                        <div className='flex-col mt-[20px]  text-black bg-green-0' >
                             <h1 className={`${roboto.className} text-black italic text-[28px] font-[600] leading-[45px] -tracking-[1px]`}>
                                 Why vendor‑agnostic matters
                             </h1>
@@ -264,7 +264,7 @@ export default function Section() {
                     </h1>
                     <p className={` ${geistSans.className} text-[22px] font-[400] -mt-[5px]`}>
                         If you want a reliable, vendor‑agnostic partner for LangChain/LangGraph/LangSmith builds—and a team that 
-                        will own delivery end‑to‑end without owning your IP—let’s talk. Email us at support@intelli4.co
+                        will own delivery end‑to‑end without owning your IP—let’s talk. Email us at support@withintelli.com
                     </p>
                 </div>
 
@@ -490,7 +490,7 @@ export default function Section() {
                     </h1>
                     <p className={` ${geistSans.className} text-[22px] font-[400] -mt-[5px]`}>
                         If you want a reliable, vendor‑agnostic partner for LangChain/LangGraph/LangSmith builds—and a team that 
-                        will own delivery end‑to‑end without owning your IP—let’s talk. Email us at support@intelli4.co
+                        will own delivery end‑to‑end without owning your IP—let’s talk. Email us at support@withintelli.com
                     </p>
                 </div>
 
