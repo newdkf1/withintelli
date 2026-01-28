@@ -23,7 +23,7 @@ export async function sendEmail(data: LeadFormInputs) {
 
   try {
         const {data, error} = await resend.emails.send({
-          from: 'support@intelli4.co',
+          from: 'support@withintelli.com',
           to: ['n8systemsofficial@gmail.com'],
           subject: 'New RFQ',
           text: "New Lead Details",

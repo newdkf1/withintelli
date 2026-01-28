@@ -6,7 +6,7 @@ import { geist, geistMono } from "@/lib/Font";
 
 export const metadata: Metadata = {
   title: {
-    default: "Intelli: 🚀 Realize your business’s true potential.",
+    default: "Intelli: Realize your business’s true potential.",
     template: "%s"
   },
 
