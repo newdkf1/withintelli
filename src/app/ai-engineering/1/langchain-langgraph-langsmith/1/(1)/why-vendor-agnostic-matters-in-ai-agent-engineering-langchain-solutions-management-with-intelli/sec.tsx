@@ -128,7 +128,7 @@ export default function Section() {
                             </ul>
                         </div>
 
-                        <div className='flex-col mt-[20px]   bg-green-0' text-black>
+                        <div className='flex-col mt-[20px]   bg-green-0 text-black' >
                             <h1 className={`${roboto.className} text-black italic text-[28px] font-[600] leading-[45px] -tracking-[1px]`}>
                                 How we implement with the LangChain ecosystem
                             </h1>
@@ -207,7 +207,7 @@ export default function Section() {
                             </ul>
                         </div>
 
-                        <div className='flex-col mt-[20px]   bg-green-0' text-black>
+                        <div className='flex-col mt-[20px]   bg-green-0  text-black'>
                             <h1 className={`${roboto.className} text-black text-[28px] font-[500] leading-[45px] -tracking-[1px]`}>
                                 Ownership and IP
                             </h1>
@@ -228,7 +228,7 @@ export default function Section() {
                             </ul>
                         </div>
 
-                        <div className='flex-col mt-[20px]   bg-green-0' text-black>
+                        <div className='flex-col mt-[20px]   bg-green-0 text-black' >
                             <h1 className={`${roboto.className} text-black text-[28px] font-[500] leading-[45px] -tracking-[1px]`}>
                                 Delivery model and outcomes
                             </h1>
@@ -258,7 +258,7 @@ export default function Section() {
 
                 </div>
 
-                <div className='flex-col  pl-[15%] pr-[5%] mt-[20px]   bg-green-0' text-black>
+                <div className='flex-col  pl-[15%] pr-[5%] mt-[20px]   bg-green-0 text-black' >
                     <h1 className={`${roboto.className} text-black text-[32px] font-[600] leading-[45px] -tracking-[1px]`}>
                         Conclusion
                     </h1>
@@ -268,7 +268,7 @@ export default function Section() {
                     </p>
                 </div>
 
-                <div className='flex-col  pl-[15%] pr-[5%] mt-[60px] pb-[80px]   bg-green-0' text-black>
+                <div className='flex-col  pl-[15%] pr-[5%] mt-[60px] pb-[80px]   bg-green-0 text-black' >
                     <h1 className={`${roboto.className} text-black text-[18px] font-[400] leading-[45px] -tracking-[1px]`}>
                         Keywords
                     </h1>                    
