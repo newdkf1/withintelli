@@ -6,7 +6,7 @@ import { geist, geistMono } from "@/lib/Font";
 
 export const metadata: Metadata = {
   title: {
-    default: "Intelli: Modernizing Business Operations",
+    default: "Intelli | Automate, Modernize, Autonomize with AI Agents - Your Softwares, Systems, Business Operations, Enterprise Applications | EVERYTHING!",
     template: "%s"
   },
 

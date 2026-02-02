@@ -312,7 +312,7 @@ export default function Section() {
                     </h2>
                 </div>
 
-                <div className='flex-col pl-[2%] pr-[2%] mt-[20px]   bg-green-0' text-black>
+                <div className='flex-col pl-[2%] pr-[2%] mt-[20px]   bg-green-0 text-black' >
                     <h1 className={`${roboto.className} text-black italic text-[28px] font-[600] leading-[38px] -tracking-[1px]`}>
                         Why vendor‑agnostic matters
                     </h1>
@@ -362,7 +362,7 @@ export default function Section() {
                     </ul>
                 </div>
 
-                <div className='flex-col pl-[2%] pr-[2%] mt-[20px]   bg-green-0' text-black>
+                <div className='flex-col pl-[2%] pr-[2%] mt-[20px]   bg-green-0 text-black' >
                     <h1 className={`${roboto.className} text-black italic text-[28px] font-[600] leading-[38px] -tracking-[1px]`}>
                         How we implement with the LangChain ecosystem
                     </h1>
@@ -441,7 +441,7 @@ export default function Section() {
                     </ul>
                 </div>
 
-                <div className='flex-col pl-[2%] pr-[2%] mt-[20px]   bg-green-0' text-black>
+                <div className='flex-col pl-[2%] pr-[2%] mt-[20px]   bg-green-0 text-black' >
                     <h1 className={`${roboto.className} text-black text-[28px] font-[500] leading-[38px] -tracking-[1px]`}>
                         Ownership and IP
                     </h1>
@@ -462,7 +462,7 @@ export default function Section() {
                     </ul>
                 </div>
 
-                <div className='flex-col pl-[2%] pr-[2%] mt-[20px]   bg-green-0' text-black>
+                <div className='flex-col pl-[2%] pr-[2%] mt-[20px]   bg-green-0  text-black'>
                     <h1 className={`${roboto.className} text-black text-[28px] font-[500] leading-[38px] -tracking-[1px]`}>
                         Delivery model and outcomes
                     </h1>
@@ -484,7 +484,7 @@ export default function Section() {
                     </ul>
                 </div>
 
-                <div className='flex-col  pl-[2%] pr-[2%] mt-[20px]   bg-green-0' text-black>
+                <div className='flex-col  pl-[2%] pr-[2%] mt-[20px]   bg-green-0 text-black' >
                     <h1 className={`${roboto.className} text-black text-[32px] font-[600] leading-[45px] -tracking-[1px]`}>
                         Conclusion
                     </h1>
@@ -498,7 +498,7 @@ export default function Section() {
                     <ContactForm />
                 </div>
                 
-                <div className='flex-col  pl-[2%] pr-[2%] mt-[60px] pb-[80px]   bg-green-0' text-black>
+                <div className='flex-col  pl-[2%] pr-[2%] mt-[60px] pb-[80px]   bg-green-0 text-black' >
                     <h1 className={`${roboto.className} text-black text-[18px] font-[400] leading-[45px] -tracking-[1px]`}>
                         Keywords
                     </h1>                    
