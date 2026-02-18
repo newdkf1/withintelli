@@ -1,28 +1,11 @@
 import Link from 'next/link'
 import Image from 'next/image'
 
-import React from 'react'
-import TypewriterComponent from 'typewriter-effect';
-
-import { ArrowRight, ChevronRight } from 'lucide-react'
-import { Button } from "flowbite-react";
-import { LuArrowUpRight } from "react-icons/lu";
-import { BsArrowUpRight, BsYoutube } from "react-icons/bs";
-import { HiOutlineArrowNarrowRight } from "react-icons/hi";
-import { FaFacebookF } from "react-icons/fa6";
-import { IoLogoLinkedin } from "react-icons/io5";
-import { BsTwitterX } from "react-icons/bs";
-import { IoLogoYoutube } from "react-icons/io";
-import { BsGithub } from "react-icons/bs";
-import { ImArrowUpRight2 } from "react-icons/im";
-import { CgArrowLongRight } from "react-icons/cg";
-import { CgArrowLongLeft } from "react-icons/cg";
-import { HiOutlineArrowLongRight } from "react-icons/hi2";
 import { GoDotFill } from "react-icons/go";
 
 import { geist, geistMono, geistSans, roboto, robotoMono, inter, sourceSansPro, openSans } from "@/lib/Font";
 
-import { DIM } from '@/lib/Dim'
+import { DIM } from '@/lib/Consts'
 
 import { SOCIAL_LINKS, PAGES_LINKS } from '@/lib/PagesLinks'
 import { VIDEO_LINKS } from '@/lib/VideoArtifactsLinks';
