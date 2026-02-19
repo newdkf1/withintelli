@@ -1,3 +1,9 @@
+export const DIM = {
+    "video-width-1":1280, "video-height-1":720,
+    "video-width-2":460, "video-height-2": 260,
+}
+
+
 export const IntelliDesc = {
     "main-title": "Intelli | Modernize Business Operations",
 
@@ -25,11 +31,11 @@ export const IntelliDesc = {
     "ai-engg-1-langchain-title": "LangChain AI Agents Solutions Management",
     "ai-engg-1-langchain-desc": 'LangChain + LangGraph + LangSmith AI Agents Solutions Management with Intelli. ' +
                                  'Build AI Agents with LangGraph for Your Enterprise.',    
+
+    "ai-engg-1-voice-ai-title": "Voice AI Solutions Management with Intelli",
+    "ai-engg-1-voice-ai-desc": "Build Voice AI Solutions with Intelli"
     
 }
 
-export const DIM = {
-    "video-width-1":1280, "video-height-1":720,
-    "video-width-2":460, "video-height-2": 260,
-}
+
 

@@ -180,13 +180,15 @@ export default function ContactForm () {
 
         {/* mobile */}
         <div className='flex '>
+
+            {/* bg-[#0d0047] */}
             
-            <div className='flex-col w-full bg-[#0d0047] h-fit pb-[100px] px-[10px]'>
+            <div className='flex-col w-full  h-fit pb-[100px] px-[10px]'>
 
 
                 <div className='flex pt-[50px] place-content-center place-items-center'>
 
-                    <div className='flex-col pt-[40px] pb-[60px] pl-[10px] pr-[20px] w-[360px] min-h-[700px] bg-gray-200 rounded-lg border-[2px] border-gray-700  '>
+                    <div className='flex-col pt-[40px] pb-[60px] pl-[10px] pr-[20px] w-[360px] min-h-[700px] bg-gray-200 rounded-lg border-[1px] border-gray-400  '>
 
                         <form className={` ${geistSans.className} `} onSubmit={handleSubmit(submitForm)}>
 
@@ -252,7 +254,7 @@ export default function ContactForm () {
 
                             <div className="flex-col mt-[40px] text-slate-600">
                                 <label className="block">
-                                    <span className={`block text-gray-700 font-[500] text-[19px] mb-[4px]  `}><sup className='mr-[5px] text-[15px]'>*</sup>Support Requirements</span>
+                                    <span className={`block text-gray-700 font-[500] text-[19px] mb-[4px]  `}><sup className='mr-[5px] text-[15px]'>*</sup>Your Business Goals with Intelli</span>
 
                                     <textarea
                                         rows={8}

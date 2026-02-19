@@ -6,7 +6,7 @@ import { Metadata } from 'next';
 import Navbar from '@/components/navbar';
 import Footer from '@/components/footer';
 
-import PageContent from './content';
+import Section from './sec';
 
 export const metadata: Metadata = {
   title: "Contact Us",
@@ -29,13 +29,15 @@ export const metadata: Metadata = {
 export default function Page() {
     return (
     <>
-        <contactuspage className='px-[0px] mx-auto' >
+      <main className='overflow-hidden px-[0px] mx-auto' >
 
+        <Navbar />
 
-        <PageContent />
+        <Section />
 
-
-        </contactuspage>
+        <Footer />
+        
+      </main>
     </>
 
 )}
