@@ -11,11 +11,8 @@ import Section from './sec';
 export const metadata: Metadata = {
   title: "Why Vendor-Agnostic Matters in AI Agent Engineering | LangChain Solutions Management with Intelli",
 
-  description: 'Choosing a vendor for AI agents shouldn’t mean surrendering control. If you’re building on the LangChain stack, ' + 
-                'you should own the code, the graphs, the evals, and the bills. Intelli is a vendor‑agnostic engineering partner ' + 
-                'across LangChain + LangGraph + LangSmith that ships agentic systems you can run, audit, and scale on your terms. ' + 
-                'If you want a reliable, vendor‑agnostic partner for LangChain/LangGraph/LangSmith builds—and a team ' + 
-                'that will own delivery end‑to‑end without owning your IP—let’s talk.',
+  description: 'Discover why vendor-agnostic AI agent engineering ensures flexibility, cost optimization, ' + 
+                'governance control, and future-ready enterprise AI systems.',
             
   twitter: {
     card: "summary_large_image"

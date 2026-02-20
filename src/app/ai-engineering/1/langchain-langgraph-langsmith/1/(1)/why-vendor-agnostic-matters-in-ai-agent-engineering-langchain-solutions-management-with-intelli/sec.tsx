@@ -31,7 +31,7 @@ export default function Section() {
                 <div className='flex bg-black pt-[40px] pb-[5px]  place-content-center place-items-center'>
                     <iframe
                     width={video_1_w}
-                    height={video_1_w}
+                    height={video_1_h}
                     allow="autoplay"
                     src={video_1}
                     title={video_1_alt}>
