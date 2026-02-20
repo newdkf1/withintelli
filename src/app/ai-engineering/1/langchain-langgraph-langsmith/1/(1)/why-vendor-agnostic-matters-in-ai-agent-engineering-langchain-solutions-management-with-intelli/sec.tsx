@@ -15,12 +15,11 @@ import ContactForm from '@/components/forms/contactForm';
 
 export default function Section() {
 
-    const home_welcome_video = VIDEO_LINKS['ai-engineering-1']['langchain-langgraph-langsmith']['1-(1)']
-    
-    const home_video_1_w = DIM['video-width-1']
-    const home_video_1_h = DIM['video-height-1']
-    const home_video_mob_1_w = DIM['video-width-2']
-    const home_video_mob_1_h = DIM['video-height-2']
+    const video_1       = VIDEO_LINKS['ai-engineering-1']['langchain-langgraph-langsmith']['1-(1)']
+    const video_1_alt   = "LangChain + LangGraph + LangSmith with Intelli"
+    const video_1_w     = DIM['video-width-1'], video_1_h     =  DIM['video-height-1']
+    const video_1_w_mob = DIM['video-width-2'], video_1_h_mob = DIM['video-height-2']
+
 
     return (
     <>
@@ -31,11 +30,11 @@ export default function Section() {
 
                 <div className='flex bg-black pt-[40px] pb-[5px]  place-content-center place-items-center'>
                     <iframe
-                    width={home_video_1_w}
-                    height={home_video_1_h}
+                    width={video_1_w}
+                    height={video_1_w}
                     allow="autoplay"
-                    src={home_welcome_video}
-                    title="welcome to intelli">
+                    src={video_1}
+                    title={video_1_alt}>
                     </iframe>
                 </div>
 
@@ -272,11 +271,11 @@ export default function Section() {
 
                 <div className='flex pt-[30px] pb-[2px] bg-black place-content-center place-items-center'>
                     <iframe
-                    width={home_video_mob_1_w}
-                    height={home_video_mob_1_h}
+                    width={video_1_w_mob}
+                    height={video_1_h_mob}
                     allow="autoplay"
-                    src={home_welcome_video}
-                    title="welcome to intelli">
+                    src={video_1}
+                    title={video_1_alt}>
                     </iframe>
                 </div>
 
