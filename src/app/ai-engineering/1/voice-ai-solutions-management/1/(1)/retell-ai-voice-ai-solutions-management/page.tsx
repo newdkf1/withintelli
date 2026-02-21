@@ -9,10 +9,10 @@ import Footer from '@/components/footer';
 import Section from './sec';
 
 export const metadata: Metadata = {
-  title: "Retell AI & Voice AI Solutions Partner for 🇺🇸 USA & 🇨🇦 Canada | Intelli ",
+  title: "Intelli | Voice Automation and Customer Engagement Systems for 🇺🇸 USA & 🇨🇦 Canada SMBs and Enterprise",
 
   description: 'Intelli is a Retell AI and Voice AI solutions partner helping businesses implement, manage, and ' + 
-  'scale intelligent voice automation and customer engagement systems.',
+                'scale intelligent voice automation and customer engagement systems.',
             
   twitter: {
     card: "summary_large_image"
