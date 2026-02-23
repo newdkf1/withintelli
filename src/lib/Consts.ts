@@ -6,7 +6,6 @@ export const DIM = {
 
 export const IntelliDesc = {
     "main-title": "Intelli | Modernize Business Operations",
-
     "main-desc": 'Intelli is a global digital transformation and enterprise technology firm helping organizations redefine their digital core for a new era of scale, ' + 
                   'resilience, and competitive advantage.',
 
