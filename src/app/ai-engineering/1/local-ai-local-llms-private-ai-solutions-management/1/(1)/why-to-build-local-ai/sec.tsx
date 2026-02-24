@@ -15,7 +15,7 @@ import ContactForm from '@/components/forms/contactForm';
 
 export default function Section() {
 
-    const video_1       = VIDEO_LINKS['ai-engineering-1']['voice-ai-solutions-management']['1-(1)-retell-ai']
+    const video_1       = VIDEO_LINKS['ai-engineering-1']['local-ai-local-llms']['1-(1)-why-to-build-local-ai']
     const video_1_alt   = "Voice AI Solutions Management with Intelli"
     const video_1_w     = DIM['video-width-1'], video_1_h     =  DIM['video-height-1']
     const video_1_w_mob = DIM['video-width-2'], video_1_h_mob = DIM['video-height-2']

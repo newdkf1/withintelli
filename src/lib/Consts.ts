@@ -22,7 +22,10 @@ export const IntelliDesc = {
     "ai-engg-1-langchain-desc": 'End-to-end LangChain, LangGraph, and LangSmith solutions management including AI agent development, monitoring, optimization, and lifecycle governance.',    
 
     "ai-engg-1-voice-ai-title": "Enterprise Voice AI Infrastructure & Management",
-    "ai-engg-1-voice-ai-desc": "Intelli designs and manages enterprise Voice AI infrastructure, delivering scalable automation, AI governance alignment, and measurable business impact."
+    "ai-engg-1-voice-ai-desc": "Intelli designs and manages enterprise Voice AI infrastructure, delivering scalable automation, AI governance alignment, and measurable business impact.",
+
+    "ai-engg-1-local-ai-title": "Local AI & Local LLM Solutions Development | Secure, Private AI by Intelli",
+    "ai-engg-1-local-ai-desc": "Discover why businesses are building Local AI and Local LLM solutions for data privacy, compliance, and cost control. Intelli delivers secure, on-premise AI development tailored to enterprise needs.",
     
 }
 

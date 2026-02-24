@@ -12,7 +12,10 @@ export const VIDEO_LINKS = {
         },
         "voice-ai-solutions-management": {
             "1-(1)-retell-ai": "https://drive.google.com/file/d/1cmWFOE5zxytJ9eWmusgaRgP8X9-HffPn/preview"
-        }
+        },
+        "local-ai-local-llms":{
+            "1-(1)-why-to-build-local-ai": "https://drive.google.com/file/d/1WUp9nf5CvCT8x1O-AUwHv2RKdSYbaJo_/preview"
+        },
     }
 
 }
