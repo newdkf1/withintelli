@@ -15,9 +15,6 @@ export const IntelliDesc = {
     "ai-engg-title": "Enterprise AI Engineering & AI Solutions | Intelli",
     "ai-engg-desc": 'AI engineering and AI solutions management services by Intelli. Design, deploy, monitor, and scale enterprise AI systems with governance and ROI focus.',
 
-    "ai-engg-1-title": "Enterprise AI Agent Development Services",
-    "ai-engg-1-desc": 'Design and deploy enterprise AI agents with Intelli. We build intelligent automation systems, multi-agent workflows, and scalable AI solutions for business operations.',
-
     "ai-engg-1-langchain-title": "LangChain AI Agents Solutions Management",
     "ai-engg-1-langchain-desc": 'End-to-end LangChain, LangGraph, and LangSmith solutions management including AI agent development, monitoring, optimization, and lifecycle governance.',    
 
@@ -26,6 +23,9 @@ export const IntelliDesc = {
 
     "ai-engg-1-local-ai-title": "Local AI & Local LLM Solutions Development | Secure, Private AI by Intelli",
     "ai-engg-1-local-ai-desc": "Discover why businesses are building Local AI and Local LLM solutions for data privacy, compliance, and cost control. Intelli delivers secure, on-premise AI development tailored to enterprise needs.",
+
+    "ai-engg-1-ai-intelli-ai-agents-title": "Enterprise AI Agent Development Services",
+    "ai-engg-1-ai-intelli-ai-agents-desc": "Design and deploy enterprise AI agents with Intelli. We build intelligent automation systems, multi-agent workflows, and scalable AI solutions for business operations.",
     
 }
 

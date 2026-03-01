@@ -16,6 +16,9 @@ export const VIDEO_LINKS = {
         "local-ai-local-llms":{
             "1-(1)-why-to-build-local-ai": "https://drive.google.com/file/d/1WUp9nf5CvCT8x1O-AUwHv2RKdSYbaJo_/preview"
         },
+        "intelli-ai-agents": {
+            "1-anthropic-(1)-anthropic-claude-code": "https://drive.google.com/file/d/1PWyCQJHfKaZZRIVsJVhYCTF3ndmjniK-/preview",
+        },
     }
 
 }
