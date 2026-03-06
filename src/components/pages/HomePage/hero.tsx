@@ -18,6 +18,8 @@ import { DEMO_LINKS, BLOG_PRODS_LINKS } from '@/lib/BlogProdsLinks';
 import BOMBigIMG from '../../../../public/co/bom_big.png'
 import BOMSMIMG from '../../../../public/co/bom_small.png'
 
+import JUSBIZWM from '../../../../public/co/jusbiz-wm.png'
+
 export default function HomeHeroSection() {
 
     const video_1       = VIDEO_LINKS.home.welcome
@@ -34,8 +36,23 @@ export default function HomeHeroSection() {
 
             <div className='flex-col w-full mx-auto  place-content-center place-items-center'>
 
+                <div className='flex-col w-full pt-[40px] pb-[30px] bg-black place-content-center place-items-center'>
 
-                <div className='flex w-full pt-[40px] pb-[1px] bg-black place-content-center place-items-center'>
+                    <div className='flex pt-[10px] max-w-[1200px]'>
+                        <h1 className={` text-center ${geistMono.className} text-white text-[120px] font-[100] tracking-[1px] leading-[200px] `}>
+                            Migrating to ...
+                        </h1>
+                    </div>
+
+                    <div className="flex w-[350px] h-[150px] -mt-[0px]">
+                        <Image src={JUSBIZWM} width={350} height={150} alt="Business Operations Modernization with Intelli"/>                  
+                    </div>     
+
+                </div>
+
+
+
+                {/* <div className='flex w-full pt-[40px] pb-[1px] bg-black place-content-center place-items-center'>
                     <iframe
                     width={video_1_w}
                     height={video_1_h}
@@ -43,7 +60,7 @@ export default function HomeHeroSection() {
                     src={video_1}
                     title={video_1_alt}>
                     </iframe>
-                </div>
+                </div> */}
 
 
                 <div className='flex-col pt-[30px] pb-[30px] w-full bg-[#fff] mx-auto   place-content-center place-items-center'>
@@ -182,8 +199,22 @@ export default function HomeHeroSection() {
 
             <div className='flex-col w-full mx-auto  '>
 
+                <div className='flex-col w-full pt-[20px] pb-[10px] bg-black place-content-center place-items-center'>
 
-                <div className='flex w-full pt-[20px] pb-[5px] bg-black place-content-center place-items-center'>
+                    <div className='flex pt-[10px] max-w-[400px]'>
+                        <h1 className={` text-center ${geistMono.className} text-white text-[40px] font-[100] -tracking-[3px] leading-[40px] `}>
+                            Migrating to ...
+                        </h1>
+                    </div>
+
+                    <div className="flex w-[270px] h-[100px] mt-[20px]">
+                        <Image src={JUSBIZWM} width={270} height={100} alt="Business Operations Modernization with Intelli"/>                  
+                    </div>     
+
+                </div>
+
+
+                {/* <div className='flex w-full pt-[20px] pb-[5px] bg-black place-content-center place-items-center'>
                     <iframe
                     width={video_1_w_mob}
                     height={video_1_h_mob}
@@ -191,7 +222,7 @@ export default function HomeHeroSection() {
                     src={video_1}
                     title={video_1_alt}>
                     </iframe>
-                </div>
+                </div> */}
 
                 <div className='flex-col pt-[30px] pb-[20px] w-full bg-[#fff] mx-auto   place-content-center place-items-center'>
 

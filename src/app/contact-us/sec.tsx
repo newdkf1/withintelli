@@ -18,6 +18,7 @@ import { geist, geistMono, geistSans, roboto, robotoMono, inter, sourceSansPro, 
 
 import ContactForm from '@/components/forms/contactForm';
 
+import JUSBIZWM from '../../../public/co/jusbiz-wm.png'
 
 export default function Section() {
 
@@ -28,6 +29,20 @@ export default function Section() {
 
             <div className='flex-col w-full mx-auto'>
 
+                <div className='flex-col w-full pt-[40px] pb-[30px] bg-black place-content-center place-items-center'>
+
+                    <div className='flex pt-[10px] max-w-[1200px]'>
+                        <h1 className={` text-center ${geistMono.className} text-white text-[120px] font-[100] tracking-[1px] leading-[200px] `}>
+                            Migrating to ...
+                        </h1>
+                    </div>
+
+                    <div className="flex w-[350px] h-[150px] -mt-[0px]">
+                        <Image src={JUSBIZWM} width={350} height={150} alt="Business Operations Modernization with Intelli"/>                  
+                    </div>     
+
+                </div>
+                
 
                 <div className='flex pt-[40px] pb-[60px] pl-[15%] pr-[10%]  bg-green-0 place-content-center place-items-center'>
 
@@ -45,6 +60,20 @@ export default function Section() {
         <div className='flex md:hidden'>
 
             <div className='flex-col w-full mx-auto'>
+
+                <div className='flex-col w-full pt-[20px] pb-[10px] bg-black place-content-center place-items-center'>
+
+                    <div className='flex pt-[10px] max-w-[400px]'>
+                        <h1 className={` text-center ${geistMono.className} text-white text-[40px] font-[100] -tracking-[3px] leading-[40px] `}>
+                            Migrating to ...
+                        </h1>
+                    </div>
+
+                    <div className="flex w-[270px] h-[100px] mt-[20px]">
+                        <Image src={JUSBIZWM} width={270} height={100} alt="Business Operations Modernization with Intelli"/>                  
+                    </div>     
+
+                </div>                
 
                 <div className='flex pt-[40px] pb-[60px] pl-[15%] pr-[10%]  bg-green-0 place-content-center place-items-center'>
 
